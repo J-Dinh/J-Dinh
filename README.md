@@ -1,21 +1,21 @@
 ## Hi, I'm Jas Dinh 🧋 
 
-Data Scientist | Software Engineer
+Data Scientist specializing in machine learning algorithms and data visualization
 
-Psychology Major in the Plan II Honors Program
+Psychology/ Behavioral Data Science Major in the Plan II Honors Program
 
 ## About Me
 <p>
   <img width="200" alt="Hello!" align="left" src="https://c.tenor.com/ZtsaY4IBySUAAAAC/cat-bubble-tea.gif">
 </p>
 
-Programming 💚| Psychology 💜| Painting 💛
+  Programming 💚| Psychology 💜| Painting 💛
 
-I attend the University of Texas at Austin.
+  I attend the University of Texas at Austin.
 
-I studied Java | Python | R  | SQL | JavaScript
+  I studied Java | Python | R  | SQL | JavaScript
 
-Check out my site and projects [here](https://j-dinh.github.io/)
+  Check out my site and projects [here](https://j-dinh.github.io/)
 
 I am an aspiring programmer interested in bringing data science and behavioral science together! I have experience in statistical analysis, data visualization, and machine learning algorithms.
 

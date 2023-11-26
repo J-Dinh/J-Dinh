@@ -1,8 +1,9 @@
 ## Hi, I'm Jas Dinh 🧋 
 
-Data Scientist specializing in machine learning algorithms and data visualization
+Data Scientist specializing in predictive modeling and data visualization
 
-Psychology/ Behavioral Data Science Major in the Plan II Honors Program
+Masters in Information and Data Science at UC Berkeley
+Bachelors in Psychology/ Behavioral Data Science at UT Austin
 
 ## About Me
 <p>
@@ -11,13 +12,13 @@ Psychology/ Behavioral Data Science Major in the Plan II Honors Program
 
   Programming 💚| Psychology 💜| Painting 💛
 
-  I attend the University of Texas at Austin.
+  I am experienced in Predictive Modeling | NLP | Ensemble Methods
 
   I studied Java | Python | R  | SQL | JavaScript
 
   Check out my site and projects [here](https://j-dinh.github.io/)
 
-I am an aspiring programmer interested in bringing data science and behavioral science together! I have experience in statistical analysis, data visualization, and machine learning algorithms.
+I am a programmer interested in bringing data science and behavioral science together! I have experience in statistical analysis, data visualization, and database management.
 
 ## Social Media
 <a href="https://www.linkedin.com/in/jas-dinh"><img height="20" src="https://img.shields.io/badge/-Jas%20Dinh-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
